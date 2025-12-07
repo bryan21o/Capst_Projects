@@ -52,6 +52,7 @@ Data Understanding:
 
 Explore the US Accidents dataset to understand its structure, variables, scope, and limitations. Identify potential issues with the data and assess its suitability for addressing the business problem.
 Data Preparation: Clean and preprocess the data, handling missing values, outliers, and duplicates. Create derived features that might provide additional insights (e.g., time of day categories, weather condition groupings).
+
 Statistical Analysis:
 
 Apply appropriate statistical methods to identify patterns, correlations, and significant factors.
