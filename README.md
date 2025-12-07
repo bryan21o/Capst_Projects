@@ -2,29 +2,43 @@
 
 Overview:
 
-This project goal is to provide data-driven insights and actionable recommendations to the Department of Transportation (DOT) to reduce accidents occurring in the US as well improve road saftey.
+There are various traffic accidents that happen in the US. The Department of Transportation (DOT) wants to develop strategies with analytical data to improve road conditions and reduce accidents occuring across the US.
 
-Dataset:
+Objective:
 
-The dataset used in this project is the US Accidents dataset downloaded from Kaggle, specifically the "US_Accidents_March23.csv" file. It contains detailed information about millions of traffic accidents recorded across the United States.
+With the provided US_Accidents_dataset, analyzing the dataset to see what facotrs contribute to high amount of accidents. As instructed for my comprehensive analysis, i will provide three data-driven insights that the DOT could utilize to reduce traffic accidents and improve road saftey.
 
-Business Case:
+Analytical Questions:
 
-The Department of Transportation (DOT) wants to develop strategies to reduce traffic accidents and enhance road safety nationwide. This analysis provides valualbe statistics to support data-driven decision-making in providing recommendations to (DOT).
+(1.) What times are accidents most occuring in a day?
 
-Project Goals:
+(2.) Where are accidents happening in the US the most?
 
-Analyze the US Accidents dataset to identify patterns, trends, and contributing factors.
-Provide three data-driven insights that the DOT can utilize to reduce traffic accidents and improve road safety.
-Analytical Questions Explored
-Where are the most accident-prone locations in the United States?
-What are the most common causes or contributing factors to accidents?
-How do accident rates vary by time (hour, day, month, season)?
-What is the relationship between weather conditions and accident severity?
-Are there trends in accident severity based on location or time?
-How do traffic accidents impact traffic congestion and travel times?
-Can we predict the likelihood of an accident occurring at a given time and place?
-Project Steps
+(3.) Which state has the most accidents?
+
+(4.) How does optimizing travel routes do whenever there's a traffic congestion caused by any accident?
+
+(5.) What factors causes the accidents to occur at an alarming rate?
+
+Emphasizing the Relevancy of the data:
+
+The importance of US_Accident dataset is that it contains analytical records of traffic accidents that have occurred in the United States. The purpose of this project by analyzing the data would allow to reduce the amount of accidents, pinpoint the location of high accident rates, analyze weather and time frame variables that contribute to accidents.
+
+Concrete Benefits and Goals:
+
+    * Optimize travel route: Redirect travel to reduce the amount of time needed for travel.
+    * Predict dangerous and safe routes: Build predictive models from the data to help prevent further accidents.
+    * Saftey Improvements: Better usage of resources such as lightings, road repairs, etc.
+    * Resource Management: Helps minimize cost for repairs and allocate materials to where its most needed.
+
+Identify Stockholders (Who is the audience?):
+
+    The targeted audience would be officials that deal with transporation matters.
+    * City and State Goverments: Allocate resources to high risk areas of accidents to ensure community saftey.
+    * Emergency Providers: Optimize route and response time for better efficiency.
+    * Transits: Optimizing delivery services to maintain quota and customer satisfaction.
+    * General Public: Desirable need for safe traveling and shortcuts for either personal or work related matters.
+Project Instructions
 The project followed these key steps:
 
 Setup the Project:
