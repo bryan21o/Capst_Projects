@@ -14,3 +14,12 @@ The project is beneficial to optimize efficient marketing campaign in the Music 
 **Goal:**
 
 Analyzing the dataset to get a predictive model for track popularity. Since the more popular a track is the potential chance that music labels and digital marketers can get financial gain with utilizing this model. A reminder that this does cover data from 2009-2025 and by the time the predictive model is made the data would be questioned to change. Must update data in correspondense to the timeframe desired for analysis.
+
+**In Jupyter Notebook should contain:**
+
+- Data exploration with comprehensive EDA
+- ML Modeling with clear progression from baseline to final model
+- Well-formatted markdown cells explaining your process and findings
+- Code cells that run without errors
+- Visualizations with clear titles, labels, and legends
+- A Sci-kit Learn Pipeline Implementation
