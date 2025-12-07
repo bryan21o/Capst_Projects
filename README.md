@@ -1,5 +1,7 @@
 ***Project 1: US Traffic Accidents***
+
 Overview
+
 This project goal is to provide data-driven insights and actionable recommendations to the Department of Transportation (DOT) to reduce accidents occurring in the US as well improve road saftey.
 
 Dataset
