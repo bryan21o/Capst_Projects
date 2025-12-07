@@ -23,3 +23,15 @@ Analyzing the dataset to get a predictive model for track popularity. Since the 
 - Code cells that run without errors
 - Visualizations with clear titles, labels, and legends
 - A Sci-kit Learn Pipeline Implementation
+
+** Sci-kit Learn Pipeline**
+
+- Properly structured preprocessing pipeline with appropriate transformers
+- Feature engineering steps incorporated into pipeline
+- Model integration with pipeline
+- Pipeline serialization for reproducibility (pickled)
+- Model optimization and tuning process
+
+Data utilized for this project link:
+https://www.kaggle.com/datasets/wardabilal/spotify-global-music-dataset-20092025
+
