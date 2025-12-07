@@ -2,11 +2,6 @@
 
 SPOTIFY MARKETING PROJECT
 
-Overview:
-***Project 2 Assignment: Machine Learning Modeling and Pipeline***
-
-SPOTIFY MARKETING PROJECT
-
 **Scenario:**
 
 The project is beneficial to optimize efficient marketing campaign in the Music industry. Music labels and digital marketers make decisions to decide which tracks deserve marketing investments. If a company or a sole business person decides to investment they'll need reassurance of financial gain and not financial loss to maximize profit.
