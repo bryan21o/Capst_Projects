@@ -38,12 +38,9 @@ Identify Stockholders (Who is the audience?):
     * Emergency Providers: Optimize route and response time for better efficiency.
     * Transits: Optimizing delivery services to maintain quota and customer satisfaction.
     * General Public: Desirable need for safe traveling and shortcuts for either personal or work related matters.
-Project Instructions
-The project followed these key steps:
+Project Instructions guideline:
 
-Setup the Project:
-
-Downloaded the dataset using Kagglehub.
+Downloaded the dataset using Kagglehub. (The file is called US_Accidents_March23.csv unless user doing the project changes the file name.)
 
 Business Understanding:
 
@@ -59,12 +56,6 @@ Apply appropriate statistical methods to identify patterns, correlations, and si
 
 
 Insights and Recommendations:  Interpret your findings in the context of the business problem.
-
-To complete this project necessary materials:
-
-The US Accidents dataset ("US_Accidents_March23.csv") downloaded from Kaggle. (import kagglehub)
-Requieres to a Python environment with the necessary libraries installed (pandas, numpy, matplotlib, seaborn).
-Dashboard: Created a Tableau dashboard to visualize key findings.
 
 Tableau Dashboard
 A comprehensive dashboard visualizing the key findings of this analysis is available on Tableau Public:
